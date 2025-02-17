@@ -1,4 +1,4 @@
-![logo](./docs/images/capstone-logo.png)
+![logo](../docs/images/capstone-logo.png)
 
 # UC ITS Capstone Project Template
 
