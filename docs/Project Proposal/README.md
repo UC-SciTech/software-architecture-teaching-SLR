@@ -1,7 +1,7 @@
 
 ![logo](/docs/images/header/header5_proposal.png)
 
-# This repository contains documents related to Project Proposal.
+# This repository contains documents related to the Project Proposal.
 
 
 ## Requirement
