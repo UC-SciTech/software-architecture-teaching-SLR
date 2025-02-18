@@ -1,6 +1,8 @@
 ![logo](../docs/images/capstone-logo.png)
 
-# UC ITS Capstone Project Template
+# Software Architecture Teaching: A Systematic Review
+##Capstone Research Project 
+###Semester 1, 2025
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Template Repo](https://img.shields.io/badge/Template-%20Repo-blue)](https://github.com/new?template_name=its-capstone-repo-template&template_owner=UC-SciTech)
