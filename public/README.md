@@ -1,7 +1,9 @@
 ![logo](../docs/images/capstone-logo.png)
 
 # Software Architecture Teaching: A Systematic Review
+
 ## Capstone Research Project 
+
 ### Semester 1, 2025
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
