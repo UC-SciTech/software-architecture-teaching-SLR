@@ -10,8 +10,8 @@ This directory or folder must contain only the files related to guides and refer
 
 ## Format Instruction
 Files should be named in the following format to easily track down date it was last modified:
-  - yyyymmdd_File Name
-  - If a file was uploaded on 18th February, the file name would be 20250218_Minutes of the Meeting_round1
+  - **yyyymmdd_File Name**
+  - If a file was uploaded on 18th February, the file name would be **20250218_Minutes of the Meeting_round1.docx**
 
 ## How to upload?
 1. Open specific folder
