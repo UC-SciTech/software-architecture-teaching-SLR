@@ -1,6 +1,6 @@
 ![logo](./docs/images/capstone-logo.png)
 
-# Project Title: Software Architecture Teaching: A Systemative Review
+# Project Title: Software Architecture Teaching: A Systematic Review
 ## Group ID: 025-S1-38-11522TeamA
 ## Sponsor: Dr Richa Awasthy
 ## Mentor: Monika Gahalawat 
