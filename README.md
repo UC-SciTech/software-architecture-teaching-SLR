@@ -24,17 +24,7 @@
 
 This project is a research project that requires systematic literature review of software architecture teaching including search, data analysis, and publication of results. The output of this project is a paper with insights gained through review to be published in an academic venue.
 
-## Documentation
+## Project Documentation
 
-Use the [`./docs`](./docs/readme.md) folder to store project documentation using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github).
+Project documentation is maintained under [`./docs`](./docs/) folder. The respective directory or folder will be updated with the final resources as and when it is complete.
 
-## Helpful Links
-
-Getting started with coding and using Github.
-
-| Name | Link |
-| ---- | ---- |
-| Github getting started | [Github.com](https://docs.github.com/en/get-started/using-git) |
-| Markdown cheatsheet | [Markdownguide.org](https://www.markdownguide.org/cheat-sheet) |
-| What is Source Control | [Atlassian.com](https://www.atlassian.com/git/tutorials/what-is-version-control) |
-| Recommended Development Tools | [Visual Studio Code](https://code.visualstudio.com/) |
