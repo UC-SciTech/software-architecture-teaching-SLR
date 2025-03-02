@@ -1,6 +1,9 @@
 ![logo](./docs/images/capstone-logo.png)
 
-# UC ITS Capstone Project Template
+# Project Title: Software Architecture Teaching: A Systemative Review
+## Group ID: 025-S1-38-11522TeamA
+## Sponsor: Dr Richa Awasthy
+## Mentor: Monika Gahalawat 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Template Repo](https://img.shields.io/badge/Template-%20Repo-blue)](https://github.com/new?template_name=its-capstone-repo-template&template_owner=UC-SciTech)
@@ -22,7 +25,7 @@ Template repository for UC ITS capstone projects source code. For more informati
 
 ## Project Information
 
-Fill in a brief description of your project here...
+This project is a research project that requires systematic literature review of software architecture teaching including search, data analysis, and publication of results. The output of this project is a paper with insights gained through review to be published in an academic venue.
 
 ## Documentation
 
