@@ -9,19 +9,16 @@
 [![Template Repo](https://img.shields.io/badge/Template-%20Repo-blue)](https://github.com/new?template_name=its-capstone-repo-template&template_owner=UC-SciTech)
 [![vscode.dev](https://img.shields.io/badge/vscode-dev-blue)](https://vscode.dev)
 
-Template repository for UC ITS capstone projects source code. For more information see the [getting started](./docs/getting-started-with-source-control.md).
 
-## Instructions
+## Project Team Members
+| Sl. No. | Name | Student ID | Role |
+| ------ | ---- | ---------- | ---- |
+| 1. | Ugyen Lhatshok | u3265091 | Team Leader |
+| 2. | Pema Gyamtsho  | u3267717 | Member |
+| 3. | Thinley Dema | u3255665 | Member |
+| 4. | Thinley Rabgay | u3267425 | Member |
+| 5. | Zhijia Ren |   u3262965 | Member |
 
-1. ***Instructors or Staff*** - Create a new repo using this [Template Repo](https://github.com/new?template_name=its-capstone-repo-template&template_owner=UC-SciTech)
-1. Choose a **meaningful** name for the repository
-1. Update the `cs-project.yaml` with your project information
-1. Update the `AUTHORS` file with your team members
-1. Update the `README.md` file with your project information
-1. read the `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md` files
-1. Update the `docs/readme.md` file with your project documentation
-1. Update the `NOTICE` file with any third party source
-1. Remove these instructions from the `README.md` file
 
 ## Project Information
 
