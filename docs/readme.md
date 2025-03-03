@@ -5,7 +5,7 @@ This repository contains documentation of the project and it is a work-in-progre
 
 ## Documentation Map
 - [docs](/docs)
-  - [Meeting Minutes](/Meeting%20Minutes)
+  - [Meeting Minutes](/docs/Meeting%20Minutes)
 
 
 You can store relevant project documentation here using [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github). An example of some documentation is provided below.
