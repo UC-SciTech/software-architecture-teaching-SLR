@@ -1,3 +1,5 @@
+![logo](/docs/images/header/header4_mom.png)
+
 # Meeting Minutes
 ### Meeting with the Sponsor and the Mentor
 
