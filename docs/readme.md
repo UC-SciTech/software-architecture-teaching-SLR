@@ -1,7 +1,7 @@
 # Systematic Project Documentation
 ### Software Architecture Teaching: A Systematic Review
 
-This repository contains documentation of the project and it is a work-in-progress. Resources will be added as and when the team members have final resources related to the project.
+This repository contains documentation of the project and it is a work in progress. Resources will be added as and when the team members have final resources related to the project.
 
 ## Documentation Map
 - [docs](/docs)
