@@ -11,7 +11,7 @@ This directory or folder must contain only the files related to our project meet
 Files should be named in the following format to easily track date it was last modified:
   - **yyyymmdd_File Name**
   - If a file was uploaded on 18th February, the file name would be **20250218_Minutes of the Meeting_round1.docx**
-<p><img src="/docs/images/File_naming_Protocol.png" width=800 title="File naming Protocol"></p>
+<p><img src="/docs/images/File_naming_Protocol.png" width=700 title="File naming Protocol"></p>
 
 ## How to upload?
 1. Open a specific folder
